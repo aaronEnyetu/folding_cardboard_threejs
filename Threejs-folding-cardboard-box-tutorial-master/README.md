@@ -4,9 +4,7 @@ Demo for the tutorial on how to create a 3D cardboard box that folds and unfolds
 
 ![Box preview](./preview/box-preview.gif)
 
-[Article on Codrops](https://tympanus.net/codrops/?p=66174)
 
-[Demo](http://tympanus.net/Tutorials/OnScrollFoldingCardboardBox/)
 
 
 ## Installation
@@ -26,16 +24,11 @@ https://threejs.org/docs/#manual/en/introduction/Installation
 3) lil-gui controls added in the same way as threejs addons
 https://github.com/georgealways/lil-gui
 
-## Misc
-
-Follow Ksenia: [Twitter](https://twitter.com/uuuuuulala), [Codepen](https://codepen.io/ksenia-k), [website](https://ksenia-k.com/)
-
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/codrops), [Instagram](https://www.instagram.com/codropsss/)
 
 ## License
 [MIT](LICENSE)
 
-Made with :blue_heart:  by [Codrops](http://www.codrops.com)
+
 
 
 
