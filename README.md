@@ -6,7 +6,7 @@
 
 Demo for the 3D cardboard box that folds and unfolds on scroll using Three.js and the GSAP ScrollTrigger.
 
-![Box preview](../preview/box-preview.gif)
+![Box preview](.../preview/box-preview.gif)
 
 ## Installation
 
