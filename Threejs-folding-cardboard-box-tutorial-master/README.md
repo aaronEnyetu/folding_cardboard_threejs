@@ -1,6 +1,6 @@
 # On-Scroll Folding Cardboard Box
 
-Demo for the tutorial on how to create a 3D cardboard box that folds and unfolds on scroll using Three.js and the GSAP ScrollTrigger.
+Demo for the 3D cardboard box that folds and unfolds on scroll using Three.js and the GSAP ScrollTrigger.
 
 ![Box preview](./preview/box-preview.gif)
 
